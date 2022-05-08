@@ -1,0 +1,7 @@
+Django
+django-filter
+djangorestframework
+requests
+gunicorn
+pandas
+psycopg2-binary==2.8.6
