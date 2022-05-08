@@ -15,6 +15,7 @@
 > 3. Run this command : docker-compose up –build 
 >
 **Note: I set the 8000 port for the local server.**
+> 4. Open the Browser hit this endpoints: ```http://127.0.0.1:8000/musical```
 
 **Without Docker:**
 > 1. Unzip the attachment
