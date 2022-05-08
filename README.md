@@ -27,4 +27,5 @@
 Note: requirements.txt file is already available in the attachment file.
 
 > 4. Start the server:```python manage.py runserver```
+> 5. Open the Browser hit this endpoints: ```http://127.0.0.1:8000/musical```
 
