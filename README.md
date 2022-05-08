@@ -1,6 +1,6 @@
 # musical
 
-**With Docker:**
+## With Docker:
 
 > - Requirements:
 
@@ -17,7 +17,7 @@
 **Note: I set the 8000 port for the local server.**
 > 4. Open the Browser hit this endpoints: ```http://127.0.0.1:8000/musical```
 
-**Without Docker:**
+## Without Docker:
 > 1. Unzip the attachment
 > 2. Make a virtual environment(Installation )
    >> a. Use this command : virtualenv ‘file_name”
